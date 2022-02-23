@@ -1,0 +1,4 @@
+Filepath: C:\Users\Andrii\Documents\Test\test2\2.txt
+Word count: 0
+Filepath: C:\Users\Andrii\Documents\Test\1.txt
+Word count: 72
